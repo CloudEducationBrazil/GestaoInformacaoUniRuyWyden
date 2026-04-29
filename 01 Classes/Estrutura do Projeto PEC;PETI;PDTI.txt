@@ -1,0 +1,9 @@
+Estrutura do Projeto PEC/PETI/PDTI
+1.	PEC - Diagnóstico Organizacional e Tecnológico (Atividade 1) 
+2.	Análise dos Sistemas de Informação e Tomada de Decisão (Atividade 2) 
+3.	BI e Inteligência Organizacional (Atividade 3) 
+4.	Governança de TI (Modelo proposto) (Atividade 4)
+5.	PETI – Planejamento Estratégico de TI 
+6.	PDTI – Plano Diretor de TI 
+7.	Portfólio de Projetos, Cronograma e Investimentos 
+8.	Conclusão e recomendações
